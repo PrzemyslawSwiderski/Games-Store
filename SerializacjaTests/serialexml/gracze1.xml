@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfGracz xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Gracz>
+    <_imie>Piotr</_imie>
+    <_nazwisko>Jozwiak</_nazwisko>
+    <Imie>Piotr</Imie>
+    <Nazwisko>Jozwiak</Nazwisko>
+  </Gracz>
+  <Gracz>
+    <_imie>Stefan</_imie>
+    <_nazwisko>Rahim</_nazwisko>
+    <Imie>Stefan</Imie>
+    <Nazwisko>Rahim</Nazwisko>
+  </Gracz>
+  <Gracz>
+    <_imie>Julita</_imie>
+    <_nazwisko>Korwin</_nazwisko>
+    <Imie>Julita</Imie>
+    <Nazwisko>Korwin</Nazwisko>
+  </Gracz>
+  <Gracz>
+    <_imie>Maciej</_imie>
+    <_nazwisko>Stepien</_nazwisko>
+    <Imie>Maciej</Imie>
+    <Nazwisko>Stepien</Nazwisko>
+  </Gracz>
+  <Gracz>
+    <_imie>Jan</_imie>
+    <_nazwisko>Nowicki</_nazwisko>
+    <Imie>Jan</Imie>
+    <Nazwisko>Nowicki</Nazwisko>
+  </Gracz>
+</ArrayOfGracz>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfZakup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Zakup>
+    <_gracz>
+      <_imie>Grzegorz</_imie>
+      <_nazwisko>Rasiak</_nazwisko>
+    </_gracz>
+    <_gra>
+      <_tytul>Fallout 2</_tytul>
+      <_wydawca>Bethesda</_wydawca>
+      <_rokWydania>1998</_rokWydania>
+      <_cena>50</_cena>
+      <_liczbaSztuk>4</_liczbaSztuk>
+    </_gra>
+    <_czasZakupu>2015-05-21T22:01:35.0127972+02:00</_czasZakupu>
+  </Zakup>
+  <Zakup>
+    <_gracz>
+      <_imie>Grzegorz</_imie>
+      <_nazwisko>Rasiak</_nazwisko>
+    </_gracz>
+    <_gra>
+      <_tytul>Pokemon Red</_tytul>
+      <_wydawca>Nintendo</_wydawca>
+      <_rokWydania>1996</_rokWydania>
+      <_cena>110</_cena>
+      <_liczbaSztuk>10</_liczbaSztuk>
+    </_gra>
+    <_czasZakupu>2015-05-21T22:01:35.0157974+02:00</_czasZakupu>
+  </Zakup>
+  <Zakup>
+    <_gracz>
+      <_imie>Stefan</_imie>
+      <_nazwisko>Kowalski</_nazwisko>
+    </_gracz>
+    <_gra>
+      <_tytul>FIFA 15</_tytul>
+      <_wydawca>EA Sports</_wydawca>
+      <_rokWydania>2014</_rokWydania>
+      <_cena>150</_cena>
+      <_liczbaSztuk>2</_liczbaSztuk>
+    </_gra>
+    <_czasZakupu>2015-05-21T22:01:35.0157974+02:00</_czasZakupu>
+  </Zakup>
+  <Zakup>
+    <_gracz>
+      <_imie>Marta</_imie>
+      <_nazwisko>Kalisz</_nazwisko>
+    </_gracz>
+    <_gra>
+      <_tytul>Eve online</_tytul>
+      <_wydawca>CCP Games</_wydawca>
+      <_rokWydania>2003</_rokWydania>
+      <_cena>200</_cena>
+      <_liczbaSztuk>19</_liczbaSztuk>
+    </_gra>
+    <_czasZakupu>2015-05-21T22:01:35.0157974+02:00</_czasZakupu>
+  </Zakup>
+</ArrayOfZakup>

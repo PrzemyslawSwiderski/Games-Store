@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Zakup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <_gracz>
+    <_imie>Janek</_imie>
+    <_nazwisko>Kowalski</_nazwisko>
+    <Imie>Janek</Imie>
+    <Nazwisko>Kowalski</Nazwisko>
+  </_gracz>
+  <_gra>
+    <_tytul>Pokemon</_tytul>
+    <_wydawca>CD Projekt</_wydawca>
+    <_rokWydania>2008</_rokWydania>
+    <_cena>100</_cena>
+    <_liczbaSztuk>9</_liczbaSztuk>
+    <Tytul>Pokemon</Tytul>
+    <Wydawca>CD Projekt</Wydawca>
+    <RokWydania>2008</RokWydania>
+    <Cena>100</Cena>
+    <LiczbaSztuk>9</LiczbaSztuk>
+  </_gra>
+  <_czasZakupu>2015-06-10T19:21:36.5512052+02:00</_czasZakupu>
+  <Gracz>Kowalski</Gracz>
+  <Gra>Pokemon</Gra>
+  <CzasZakupu>2015-06-10T19:21:36.5512052+02:00</CzasZakupu>
+</Zakup>

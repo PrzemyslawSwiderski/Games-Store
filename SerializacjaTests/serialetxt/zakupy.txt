@@ -1,0 +1,36 @@
+Gracz:
+Stefan
+Rahim
+Gra:
+Wiedzmin2
+CD Projekt2
+2001
+102
+5
+Gracz:
+Stefan
+Rahim
+Gra:
+Wiedzmin
+CD Projekt
+2008
+100
+10
+Gracz:
+Julita
+Korwin
+Gra:
+Wiedzmin
+CD Projekt
+2008
+100
+10
+Gracz:
+Piotr
+Jozwiak
+Gra:
+Pokemon red
+KOnami
+2041
+200
+8

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfGracz xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Gracz>
+    <_imie>Adam</_imie>
+    <_nazwisko>Wojtkowiak</_nazwisko>
+  </Gracz>
+  <Gracz>
+    <_imie>Grzegorz</_imie>
+    <_nazwisko>Rasiak</_nazwisko>
+  </Gracz>
+  <Gracz>
+    <_imie>Robert</_imie>
+    <_nazwisko>Lewandowski</_nazwisko>
+  </Gracz>
+  <Gracz>
+    <_imie>Fryderyk</_imie>
+    <_nazwisko>Szopen</_nazwisko>
+  </Gracz>
+  <Gracz>
+    <_imie>Stefan</_imie>
+    <_nazwisko>Kowalski</_nazwisko>
+  </Gracz>
+  <Gracz>
+    <_imie>Marta</_imie>
+    <_nazwisko>Kalisz</_nazwisko>
+  </Gracz>
+  <Gracz>
+    <_imie>Tytus</_imie>
+    <_nazwisko>Nowak</_nazwisko>
+  </Gracz>
+</ArrayOfGracz>

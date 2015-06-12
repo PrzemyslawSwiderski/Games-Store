@@ -1,0 +1,1 @@
+{"_gracz":{"_imie":"Janusz","_nazwisko":"Kowalski"},"_gra":{"_tytul":"Pokemon","_wydawca":"CD Projekt","_rokWydania":2008,"_cena":100,"_liczbaSztuk":9},"_czasZakupu":"2015-05-21T20:02:39.1657665+02:00"}

@@ -1,0 +1,24 @@
+Gra:
+nieznany
+nieznany
+0
+0
+0
+Gra:
+Wiedzmin
+CD Projekt
+2008
+100
+10
+Gra:
+Wiedzmin2
+CD Projekt2
+2001
+102
+5
+Gra:
+Pokemon red
+KOnami
+2041
+200
+8

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfGra xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Gra>
+    <_tytul>Wiedzmin</_tytul>
+    <_wydawca>CD Projekt</_wydawca>
+    <_rokWydania>2008</_rokWydania>
+    <_cena>100</_cena>
+    <_liczbaSztuk>10</_liczbaSztuk>
+    <Tytul>Wiedzmin</Tytul>
+    <Wydawca>CD Projekt</Wydawca>
+    <RokWydania>2008</RokWydania>
+    <Cena>100</Cena>
+    <LiczbaSztuk>10</LiczbaSztuk>
+  </Gra>
+  <Gra>
+    <_tytul>Wiedzmin2</_tytul>
+    <_wydawca>CD Projekt2</_wydawca>
+    <_rokWydania>2001</_rokWydania>
+    <_cena>102</_cena>
+    <_liczbaSztuk>5</_liczbaSztuk>
+    <Tytul>Wiedzmin2</Tytul>
+    <Wydawca>CD Projekt2</Wydawca>
+    <RokWydania>2001</RokWydania>
+    <Cena>102</Cena>
+    <LiczbaSztuk>5</LiczbaSztuk>
+  </Gra>
+  <Gra>
+    <_tytul>Pokemon red</_tytul>
+    <_wydawca>KOnami</_wydawca>
+    <_rokWydania>2041</_rokWydania>
+    <_cena>200</_cena>
+    <_liczbaSztuk>8</_liczbaSztuk>
+    <Tytul>Pokemon red</Tytul>
+    <Wydawca>KOnami</Wydawca>
+    <RokWydania>2041</RokWydania>
+    <Cena>200</Cena>
+    <LiczbaSztuk>8</LiczbaSztuk>
+  </Gra>
+  <Gra>
+    <_tytul>nieznany</_tytul>
+    <_wydawca>nieznany</_wydawca>
+    <_rokWydania>0</_rokWydania>
+    <_cena>0</_cena>
+    <_liczbaSztuk>1</_liczbaSztuk>
+    <Tytul>nieznany</Tytul>
+    <Wydawca>nieznany</Wydawca>
+    <RokWydania>0</RokWydania>
+    <Cena>0</Cena>
+    <LiczbaSztuk>1</LiczbaSztuk>
+  </Gra>
+</ArrayOfGra>

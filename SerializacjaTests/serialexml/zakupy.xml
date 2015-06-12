@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfZakup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Zakup>
+    <_gracz>
+      <_imie>Julita</_imie>
+      <_nazwisko>Korwin</_nazwisko>
+      <Imie>Julita</Imie>
+      <Nazwisko>Korwin</Nazwisko>
+    </_gracz>
+    <_gra>
+      <_tytul>Wiedzmin2</_tytul>
+      <_wydawca>CD Projekt2</_wydawca>
+      <_rokWydania>2001</_rokWydania>
+      <_cena>102</_cena>
+      <_liczbaSztuk>5</_liczbaSztuk>
+      <Tytul>Wiedzmin2</Tytul>
+      <Wydawca>CD Projekt2</Wydawca>
+      <RokWydania>2001</RokWydania>
+      <Cena>102</Cena>
+      <LiczbaSztuk>5</LiczbaSztuk>
+    </_gra>
+    <_czasZakupu>2015-06-12T22:49:50.335978+02:00</_czasZakupu>
+    <Gracz>Korwin</Gracz>
+    <Gra>Wiedzmin2</Gra>
+    <CzasZakupu>2015-06-12T22:49:50.335978+02:00</CzasZakupu>
+  </Zakup>
+  <Zakup>
+    <_gracz>
+      <_imie>Julita</_imie>
+      <_nazwisko>Korwin</_nazwisko>
+      <Imie>Julita</Imie>
+      <Nazwisko>Korwin</Nazwisko>
+    </_gracz>
+    <_gra>
+      <_tytul>Wiedzmin</_tytul>
+      <_wydawca>CD Projekt</_wydawca>
+      <_rokWydania>2008</_rokWydania>
+      <_cena>100</_cena>
+      <_liczbaSztuk>10</_liczbaSztuk>
+      <Tytul>Wiedzmin</Tytul>
+      <Wydawca>CD Projekt</Wydawca>
+      <RokWydania>2008</RokWydania>
+      <Cena>100</Cena>
+      <LiczbaSztuk>10</LiczbaSztuk>
+    </_gra>
+    <_czasZakupu>2015-06-12T22:49:50.3389782+02:00</_czasZakupu>
+    <Gracz>Korwin</Gracz>
+    <Gra>Wiedzmin</Gra>
+    <CzasZakupu>2015-06-12T22:49:50.3389782+02:00</CzasZakupu>
+  </Zakup>
+  <Zakup>
+    <_gracz>
+      <_imie>Maciej</_imie>
+      <_nazwisko>Stepien</_nazwisko>
+      <Imie>Maciej</Imie>
+      <Nazwisko>Stepien</Nazwisko>
+    </_gracz>
+    <_gra>
+      <_tytul>Wiedzmin</_tytul>
+      <_wydawca>CD Projekt</_wydawca>
+      <_rokWydania>2008</_rokWydania>
+      <_cena>100</_cena>
+      <_liczbaSztuk>10</_liczbaSztuk>
+      <Tytul>Wiedzmin</Tytul>
+      <Wydawca>CD Projekt</Wydawca>
+      <RokWydania>2008</RokWydania>
+      <Cena>100</Cena>
+      <LiczbaSztuk>10</LiczbaSztuk>
+    </_gra>
+    <_czasZakupu>2015-06-12T22:49:50.3399783+02:00</_czasZakupu>
+    <Gracz>Stepien</Gracz>
+    <Gra>Wiedzmin</Gra>
+    <CzasZakupu>2015-06-12T22:49:50.3399783+02:00</CzasZakupu>
+  </Zakup>
+  <Zakup>
+    <_gracz>
+      <_imie>Stefan</_imie>
+      <_nazwisko>Rahim</_nazwisko>
+      <Imie>Stefan</Imie>
+      <Nazwisko>Rahim</Nazwisko>
+    </_gracz>
+    <_gra>
+      <_tytul>Pokemon red</_tytul>
+      <_wydawca>KOnami</_wydawca>
+      <_rokWydania>2041</_rokWydania>
+      <_cena>200</_cena>
+      <_liczbaSztuk>8</_liczbaSztuk>
+      <Tytul>Pokemon red</Tytul>
+      <Wydawca>KOnami</Wydawca>
+      <RokWydania>2041</RokWydania>
+      <Cena>200</Cena>
+      <LiczbaSztuk>8</LiczbaSztuk>
+    </_gra>
+    <_czasZakupu>2015-06-12T22:49:50.3399783+02:00</_czasZakupu>
+    <Gracz>Rahim</Gracz>
+    <Gra>Pokemon red</Gra>
+    <CzasZakupu>2015-06-12T22:49:50.3399783+02:00</CzasZakupu>
+  </Zakup>
+  <Zakup>
+    <_gracz>
+      <_imie>Marek</_imie>
+      <_nazwisko>Świderski</_nazwisko>
+      <Imie>Marek</Imie>
+      <Nazwisko>Świderski</Nazwisko>
+    </_gracz>
+    <_gra>
+      <_tytul>Fifa</_tytul>
+      <_wydawca>Ea</_wydawca>
+      <_rokWydania>2001</_rokWydania>
+      <_cena>70</_cena>
+      <_liczbaSztuk>1</_liczbaSztuk>
+      <Tytul>Fifa</Tytul>
+      <Wydawca>Ea</Wydawca>
+      <RokWydania>2001</RokWydania>
+      <Cena>70</Cena>
+      <LiczbaSztuk>1</LiczbaSztuk>
+    </_gra>
+    <_czasZakupu>2015-06-12T22:50:46.9262148+02:00</_czasZakupu>
+    <Gracz>Świderski</Gracz>
+    <Gra>Fifa</Gra>
+    <CzasZakupu>2015-06-12T22:50:46.9262148+02:00</CzasZakupu>
+  </Zakup>
+</ArrayOfZakup>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfGra xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Gra>
+    <_tytul>Heroes 3</_tytul>
+    <_wydawca>The 3DO Company</_wydawca>
+    <_rokWydania>1999</_rokWydania>
+    <_cena>50</_cena>
+    <_liczbaSztuk>12</_liczbaSztuk>
+  </Gra>
+  <Gra>
+    <_tytul>FIFA 15</_tytul>
+    <_wydawca>EA Sports</_wydawca>
+    <_rokWydania>2014</_rokWydania>
+    <_cena>150</_cena>
+    <_liczbaSztuk>2</_liczbaSztuk>
+  </Gra>
+  <Gra>
+    <_tytul>Freeleancer</_tytul>
+    <_wydawca>Microsoft</_wydawca>
+    <_rokWydania>2003</_rokWydania>
+    <_cena>70</_cena>
+    <_liczbaSztuk>7</_liczbaSztuk>
+  </Gra>
+  <Gra>
+    <_tytul>Eve online</_tytul>
+    <_wydawca>CCP Games</_wydawca>
+    <_rokWydania>2003</_rokWydania>
+    <_cena>200</_cena>
+    <_liczbaSztuk>19</_liczbaSztuk>
+  </Gra>
+  <Gra>
+    <_tytul>Pillars of Eternity</_tytul>
+    <_wydawca>Obsidian Entertainment</_wydawca>
+    <_rokWydania>2015</_rokWydania>
+    <_cena>80</_cena>
+    <_liczbaSztuk>8</_liczbaSztuk>
+  </Gra>
+  <Gra>
+    <_tytul>Pokemon Red</_tytul>
+    <_wydawca>Nintendo</_wydawca>
+    <_rokWydania>1996</_rokWydania>
+    <_cena>110</_cena>
+    <_liczbaSztuk>10</_liczbaSztuk>
+  </Gra>
+  <Gra>
+    <_tytul>Fallout 2</_tytul>
+    <_wydawca>Bethesda</_wydawca>
+    <_rokWydania>1998</_rokWydania>
+    <_cena>50</_cena>
+    <_liczbaSztuk>4</_liczbaSztuk>
+  </Gra>
+</ArrayOfGra>
